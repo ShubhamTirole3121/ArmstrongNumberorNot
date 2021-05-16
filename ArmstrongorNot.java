@@ -3,7 +3,6 @@ package Schoollevel;
 public class ArmstrongorNot {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int n=153;
 		System.out.println(armstrongNumber(n));
 
